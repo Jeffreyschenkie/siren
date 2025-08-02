@@ -1,3 +1,3 @@
-telegram_token: 8009247210:AAFmlmmADX1KS81B7JTZ3h7VEX7SxX1x_3g
-redis_url: redis://default:rummvUrHRpYPFQQnTPCXagIjkKWOhJg@redis.railway.internal:6379
+telegram_token: 8009247210:AAFmlmmADX1KS81B7JTZ3h7VEX7SxXlx_3g
+redis_url: redis://default:rummvUrHPRyPFQQnTPCXagljxkWKOhJg@redis.railway.internal:6379
 port: 8080
